@@ -10,3 +10,7 @@ EN:
 This project was made to give an introduction to Software Architecture Designs on the youtube channel @AllDeadStudios;
 In it I'm showing a few manners on how we can structure a gameObject, with the architectures MVC, MVC + Observer(Design Pattern) and Hexagonal. There is also an exemple of a "spaghetti code";
 The architectures are divided by scenes in the "Scenes" folder.
+
+Youtube video:
+Part 1 - https://youtu.be/i4YSu8em6E8?si=kvUqdjyTBNfjzMBn
+Part 2 - https://youtu.be/JgXNs2lq8RE?si=PRbmYwaKV58RNXrg
